@@ -1,6 +1,6 @@
 # codeup
 
-I'm studying about C Language first tiom.
+I'm studying about C Language first time.
 so I'm going to make many mistakes ***accidentally***
 
 
